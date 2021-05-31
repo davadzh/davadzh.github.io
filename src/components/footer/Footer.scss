@@ -1,0 +1,19 @@
+.footer {
+  h3 {
+    font-family: NunitoExtraLight, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 50px;
+  }
+}
+
+@media (max-width: 464px) {
+  .footer {
+    h3 {
+      font-family: NunitoExtraLight, sans-serif;
+      font-size: 12px;
+      text-align: center;
+      margin-top: 30px;
+    }
+  }
+}

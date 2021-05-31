@@ -1,0 +1,15 @@
+.skills {
+  background: rgba(0, 0, 0, 0.2);
+  padding: 16px 0;
+  width: 100%;
+  white-space: nowrap;
+  margin-top: 33px;
+  font-size: 14px;
+}
+
+@media (max-width: 464px) {
+  .skills {
+    background: rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+  }
+}

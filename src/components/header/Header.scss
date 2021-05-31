@@ -1,0 +1,26 @@
+.header{
+  height: 50px;
+  background: rgba(0, 0, 0, 0.2);
+
+  .logo{
+    font-family: NunitoExtraBold, sans-serif;
+    color: rgba(255, 255, 255, 0.8);
+    line-height: 50px;
+    float: left;
+  }
+
+  .social-networks{
+    list-style-type: none;
+    float: right;
+    display: inline-flex;
+
+    li {
+      margin-left: 10px;
+      line-height: 65px;
+
+      img {
+
+      }
+    }
+  }
+}
