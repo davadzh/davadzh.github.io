@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aca30d95-036b-40fc-aa8a-07afb94b1859" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/static/images/ava2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/static/images/lock.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/projects/ProjectSlider.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/projects/ProjectSlider.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/showCase/ShowCase.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/showCase/ShowCase.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/static/images/background_mobile.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/static/images/background_mobile.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1tFz6Ajjv6NX3LLoyLCx140bsj7" />
@@ -85,7 +84,7 @@
       <workItem from="1622379452416" duration="3528000" />
       <workItem from="1622447316653" duration="512000" />
       <workItem from="1622461633576" duration="19270000" />
-      <workItem from="1622568652233" duration="4453000" />
+      <workItem from="1622568652233" duration="5150000" />
     </task>
     <servers />
   </component>
