@@ -12,7 +12,7 @@ const Header = (props) => {
 
                 <nav className="social-networks">
                     <li><a href="https://github.com/davadzh"><img src={github} alt="Github"/></a></li>
-                    <li><a href="/"><img src={telegram} alt="Telegram"/></a></li>
+                    <li><a href="#"><img src={telegram} alt="Telegram"/></a></li>
                     <li><a href="https://www.instagram.com/davadzh/"><img src={instagram} alt="Instagram"/></a></li>
                 </nav>
             </div>

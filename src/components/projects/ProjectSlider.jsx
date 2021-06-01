@@ -1,11 +1,9 @@
 import "../GeneralStyles.scss"
-import avatar from "../../static/images/avatar.png"
 import kupikomment from "../../static/images/kupikomment.png"
-import km from "../../static/images/km.png"
-import soon from "../../static/images/soon.png"
+import lock from "../../static/images/lock.png"
+import "./ProjectSlider.scss"
 import "react-multi-carousel/lib/styles.css"
 import Carousel from "react-multi-carousel"
-import "./ProjectSlider.scss"
 
 const ProjectSlider = (props) => {
     const responsive = {
@@ -28,7 +26,6 @@ const ProjectSlider = (props) => {
 
     return (
         <div className="davadzh-carousel-wrapper">
-            <div className="frontground"></div>
             <Carousel
                 className="davadzh-carousel"
                 swipeable={true}
@@ -49,31 +46,31 @@ const ProjectSlider = (props) => {
                     <div>купикоммент.рф</div>
                 </div>
                 <div className="carousel-item">
-                    <a href="/">
+                    {/*<a href="#">*/}
                         <img className="carousel-image"
-                             src={soon}
+                             src={lock}
                              alt="Soon"
                         />
-                    </a>
-                    <div>Скоро</div>
+                    {/*</a>*/}
+                    <div>Soon</div>
                 </div>
                 <div className="carousel-item">
-                    <a href="/">
+                    {/*<a href="#">*/}
                         <img className="carousel-image"
-                             src={soon}
+                             src={lock}
                              alt="Soon"
                         />
-                    </a>
-                    <div>Скоро</div>
+                    {/*</a>*/}
+                    <div>Soon</div>
                 </div>
                 <div className="carousel-item">
-                    <a href="/">
+                    {/*<a href="#">*/}
                         <img className="carousel-image"
-                             src={soon}
+                             src={lock}
                              alt="Soon"
                         />
-                    </a>
-                    <div>Скоро</div>
+                    {/*</a>*/}
+                    <div>Soon</div>
                 </div>
             </Carousel>
         </div>
