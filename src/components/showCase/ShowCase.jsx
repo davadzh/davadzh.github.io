@@ -11,8 +11,8 @@ const ShowCase = (props) => {
                     <div className="about-info">
                         <h1>Backend developer</h1>
                         <ul>
-                            <li><span>Me</span> David, 19</li>
-                            <li><span>Commercial development<br/>experience</span> 1 year 7 months</li>
+                            <li><span>Me</span> David, 20</li>
+                            <li><span>Commercial development<br/>experience</span> 1 year 8 months</li>
                         </ul>
                         <div className="short-info">Hello, I'm David, backend web-developer.
                             I'm a 2nd year student of the Financial University,
