@@ -15,7 +15,7 @@ const ShowCase = (props) => {
                             <li><span>Commercial development<br/>experience</span> 1 year 8 months</li>
                         </ul>
                         <div className="short-info">Hello, I'm David, backend web-developer.
-                            I'm a 2nd year student of the Financial University,
+                            I'm a 3rd year student of the Financial University,
                             specialization is applied computer science.
                             My main activity is web api development on asp.net.
                             In addition, I have skills related to web development in general,
@@ -32,7 +32,7 @@ const ShowCase = (props) => {
 
                 <div className="short-info-mobile">
                     Hello, I'm David, backend web-developer.
-                    I'm a 2nd year student of the Financial University,
+                    I'm a 3rd year student of the Financial University,
                     specialization is applied computer science.
                     My main activity is web api development on asp.net.
                     In addition, I have skills related to web development in general,
